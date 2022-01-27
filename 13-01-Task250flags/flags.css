@@ -1,0 +1,33 @@
+.img{
+   
+    height: 150px;
+    width: 250px;
+}
+.head{
+display: block;
+background-color: rgb(10, 10, 10);
+color: white;
+
+
+
+ 
+
+}
+.text{
+    background-color: blueviolet;
+    display: inline;
+    color: white;
+   
+}
+.container{
+    border :brown solid 3px;
+    display: inline-block;
+    text-align: center;
+    width: 250px;
+    background-image: linear-gradient(to right top, #f2f5f9, #bbbfc4, #888c91, #575c62, #2b3036);
+}
+button{
+ position: relative;
+ bottom: 10px;
+ cursor:pointer;
+}
